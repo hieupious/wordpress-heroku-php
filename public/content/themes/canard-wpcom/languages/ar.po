@@ -1,0 +1,82 @@
+# Translation of Canard in Arabic
+# This file is distributed under the same license as the Canard package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-05-29 08:21:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Canard\n"
+
+#: content-page.php:35 inc/template-tags.php:145
+msgid "Edit"
+msgstr "تحرير"
+
+#: content-page.php:28 content-single.php:29
+msgid "Page"
+msgstr "صفحة"
+
+#: content-page.php:24 content-single.php:25
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أننا لم نعثر على ما تطلب. لعل استعمال البحث قد يساعد."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عذرا، لا يوجد شيء يتطابق مع كلمات البحث التي استعملتها، المرجو المحاولة من جديد باستعمال كلمات مفتاحية أخرى."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "مستعد لنشر تدوينتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "لم يتم العثور على نتائج"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:47
+msgid "Newer Comments"
+msgstr "التعليقات الأحدث"
+
+#: comments.php:46
+msgid "Older Comments"
+msgstr "التعليقات الأقدم"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "استعراض التعليق"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "لا أفكار على &rdquo;%2$s&ldquo;"
+msgstr[1] "فكرة واحدة على &rdquo;%2$s&ldquo;"
+msgstr[2] "فكرتان اثنتان على &rdquo;%2$s&ldquo;"
+msgstr[3] "%1$s أفكار على &rdquo;%2$s&ldquo;"
+msgstr[4] "%1$s فكرة على &rdquo;%2$s&ldquo;"
+msgstr[5] "%1$s فكرة على &rdquo;%2$s&ldquo;"
+
+#: author-bio.php:31
+msgid "View all posts by %s"
+msgstr "شاهد كل التدوينات عن طريق %s"
+
+#: author-bio.php:24
+msgid "Published by"
+msgstr "نُشرت بواسطة"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "يظهر انه لا يوجد شئ في هذا المكان. ربما يجب ان تجرب إستخدام واحد من الروابط بالأسفل او تجرب البحث؟"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "الصفحة التي طلبتها غير موجودة."
