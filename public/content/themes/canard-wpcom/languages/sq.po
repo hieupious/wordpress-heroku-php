@@ -1,0 +1,340 @@
+# Translation of Canard in Albanian
+# This file is distributed under the same license as the Canard package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-14 18:27:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Canard\n"
+
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post
+#: content.php:44 inc/extras.php:98
+msgid "Continue reading %s"
+msgstr "Vazhdoni leximin e %s"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/canard/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/canard/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#: single.php:28
+msgid "Next"
+msgstr "Pasuesja"
+
+#: single.php:28
+msgid "Next post:"
+msgstr "Postimi pasues:"
+
+#: single.php:29
+msgid "Previous"
+msgstr "I mëparshmi"
+
+#: single.php:29
+msgid "Previous post:"
+msgstr "Postimi i mëparshëm:"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Përfundime Kërkimi për: %s"
+
+#: inc/template-tags.php:189
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:191
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Fjalosje"
+
+#: inc/template-tags.php:194
+msgid "Archives: %s"
+msgstr "Arkiva: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:198
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:200
+msgid "Archives"
+msgstr "Arkiva"
+
+#: inc/template-tags.php:175
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Anësore"
+
+#: inc/template-tags.php:177
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeri"
+
+#: inc/template-tags.php:179
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Figura"
+
+#: inc/template-tags.php:181
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: inc/template-tags.php:183
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Thonjëza"
+
+#: inc/template-tags.php:185
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Lidhje"
+
+#: inc/template-tags.php:187
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Gjendje"
+
+#: inc/template-tags.php:168
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:170
+msgid "Month: %s"
+msgstr "Muaj: %s"
+
+#: inc/template-tags.php:170
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:172
+msgid "Day: %s"
+msgstr "Ditë: %s"
+
+#: inc/template-tags.php:172
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F, Y"
+
+#: inc/template-tags.php:162
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:164
+msgid "Tag: %s"
+msgstr "Etiketë: %s"
+
+#: inc/template-tags.php:166
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:168
+msgid "Year: %s"
+msgstr "Vit: %s"
+
+#: inc/template-tags.php:123
+msgid "1 Comment"
+msgstr "! Koment"
+
+#: inc/template-tags.php:123
+msgid "% Comments"
+msgstr "% Komente"
+
+#: inc/template-tags.php:123
+msgid "Leave a comment"
+msgstr "Lini një koment"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Postime më të reja"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Lëvizje te postimet"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:75 inc/template-tags.php:139
+msgid ", "
+msgstr ", "
+
+#: inc/jetpack.php:26
+msgid "The featured content section displays on the front page above the header."
+msgstr "Ndarja e lëndës së zgjedhur shfaqet te faqja ballore sipër kryes."
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Lëvizje te postimet"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Postimet më të vjetra"
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "Mundësi Teme"
+
+#: inc/customizer.php:29
+msgid "Show author bio on single posts."
+msgstr "Shfaq jetëshkrim autori në postimet njëshe."
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Faqe %s"
+
+#: header.php:77
+msgid "Search"
+msgstr "Kërkoni"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:138
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:172
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Playfair Display, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:177
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Kaloni te lënda"
+
+#: header.php:72
+msgid "Primary Menu"
+msgstr "Menuja Parësore"
+
+#: functions.php:111
+msgid "Footer"
+msgstr "Fundfaqe"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Lato, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:133
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: footer.php:54
+msgid "Theme: %1$s by %2$s."
+msgstr "Temë: %1$s nga %2$s."
+
+#: functions.php:69
+msgid "Primary Location"
+msgstr "Vend Parësor"
+
+#: functions.php:72
+msgid "Social Location"
+msgstr "Vend Rrjetesh Shoqërore"
+
+#: functions.php:101 sidebar.php:14
+msgid "Sidebar"
+msgstr "Anështyllë"
+
+#: footer.php:52
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:52
+msgid "Proudly powered by %s"
+msgstr "Bazohet me krenari në %s"
+
+#: content.php:20
+msgid "Sticky post"
+msgstr "Postim Ngjitës"
+
+#: content-page.php:35 inc/template-tags.php:145
+msgid "Edit"
+msgstr "Përpuno"
+
+#: content-page.php:28 content-single.php:29
+msgid "Page"
+msgstr "Faqe"
+
+#: content-page.php:24 content-single.php:25
+msgid "Pages:"
+msgstr "Faqe:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Duket se nuk qemë në gjendje të gjenim ç&#8217;po kërkonit. Ndoshta mund t&#8217;ju ndihë kërkimi."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Na ndjeni, por nuk u përputh gjë me kriterin tuaj të kërkimit. Ju lutemi, riprovoni me ndonjë fjalëkyç tjetër."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gati për botimin e postimit tuaj të parë? <a href=\"%1$s\">Fillojani këtu</a>."
+
+#: content-link.php:8
+msgid "External link to %s"
+msgstr "Lidhje e jashtme për te %s"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nuk u gjet gjë"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Komentet janë mbyllur."
+
+#: comments.php:47
+msgid "Newer Comments"
+msgstr "Komentet Më të Reja"
+
+#: comments.php:46
+msgid "Older Comments"
+msgstr "Komentet Më të Vjetra"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Lëvizje te komentet"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Një mendim mbi &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mendime mbi &ldquo;%2$s&rdquo;"
+
+#: author-bio.php:31
+msgid "View all posts by %s"
+msgstr "Shihni tërë postimet nga %s"
+
+#: author-bio.php:24
+msgid "Published by"
+msgstr "Botuar nga"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Duket se nuk u gjet gjë në këtë vend. Të provohet një nga lidhjet më poshtë, ose ndoshta një kërkim?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hmm! Ajo faqe nuk gjendet dot."
