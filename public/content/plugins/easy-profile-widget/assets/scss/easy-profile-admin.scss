@@ -1,0 +1,85 @@
+@import "compass";
+
+body{
+	.easy-profile-tabs{
+		font-family: "Open Sans",sans-serif;
+		font-size: 13px;
+    	line-height: 1.5;
+	  .ui-tabs-nav{
+	    padding: 0px;
+	    margin: 0px;
+	    li{
+	      float: left;
+	      margin: 0px;
+	      a{
+	        display: block;
+	        padding: 5px 7px;
+	        border: 1px solid #ccc;
+	        border-bottom: none;
+	        background: #e4e4e4;
+	        color: #555;
+	        text-decoration: none;
+	        margin: -4px 4px -1px 0;
+	        &, &:focus{
+	          outline: 0;
+	        }
+	      }
+	      &.ui-state-active{
+	        a{
+	          background: #fff;
+	          @include box-shadow(none);
+	        }
+	      }
+	    }
+	    &:after{
+	      content: "";
+	      display: table;
+	      border-collapse: collapse;
+	      clear: both;
+	    }
+	  }
+	  .ui-widget-content{
+	    clear: both;
+	    border: 1px solid #ccc;
+	    padding: 10px;
+	    margin-bottom: 12px;
+	    // border-top: none;
+	    @include box-sizing(border-box);
+	  }
+	}
+	.easy-profile-widget-form{
+		.ui-widget-content, .ui-widget-header, .ui-widget-header li{
+			border: 0px !important;
+			background: transparent !important;
+		}
+		.ui-widget-content.ui-tabs-panel{
+			border: 1px solid #ccc !important;
+		}
+		.ui-tabs .ui-tabs-nav .ui-tabs-anchor{
+			font-weight: normal;
+			font-size: 14px;
+			padding: 5px 8px;
+		}
+		.easy-profile-learnmore{
+			color: #0073aa;
+			text-decoration: none;
+			&:hover{
+				text-decoration: underline;
+			}
+		}
+	}
+
+	.easy-profile-widget--after{
+	    a{
+	        display: block;
+	        text-decoration: none;
+	        color: #31708f;
+	        background: #d9edf7;
+	        border: 1px solid #bcdff1;
+	        padding: 5px 7px;
+	        font-size: 12px;
+	        margin-bottom: 15px;
+	        @include border-radius( 3px );
+	    }
+	}
+}

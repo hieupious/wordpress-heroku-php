@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Profile Widget\n"
+"POT-Creation-Date: 2015-11-09 06:56-0500\n"
+"PO-Revision-Date: 2015-11-09 08:29-0500\n"
+"Last-Translator: TWF <info@themes-wordpress-francais.com>\n"
+"Language-Team: TWF <info@themes-wordpress-francais.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: plugin.php\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: core/functions.widget.php:15
+msgid "Easy Profile"
+msgstr "Easy Profile"
+
+#. Description of the plugin/theme
+#: core/functions.widget.php:16
+msgid "Display User Profile Block with Gravatar on your sidebar widget"
+msgstr "Affiche le profil utilisateur Gravatar dans un widget "
+
+#: core/functions.widget.php:94
+msgid "Title:"
+msgstr "Titre :"
+
+#: core/functions.widget.php:99
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: core/functions.widget.php:100
+msgid "Description"
+msgstr "Description"
+
+#: core/functions.widget.php:105
+msgid ""
+"Select a user. The email address for this account will be used to pull the "
+"Gravatar image."
+msgstr ""
+"Sélectionner un utilisateur. L’adresse email de ce compte sera utilisée "
+"pour ajouter l’image Gravatar"
+
+#: core/functions.widget.php:116
+msgid "Gravatar Size:"
+msgstr "Dimensions du Gravatar :"
+
+#: core/functions.widget.php:118
+msgid "Small (50px)"
+msgstr "Petit (50px)"
+
+#: core/functions.widget.php:119
+msgid "Medium (70px)"
+msgstr "Moyen (70px)"
+
+#: core/functions.widget.php:120
+msgid "Large (90px)"
+msgstr "Large (90px)"
+
+#: core/functions.widget.php:121
+msgid "Extra Large (120px)"
+msgstr "Extra Large (120px)"
+
+#: core/functions.widget.php:124
+msgid "Gravatar Alignment:"
+msgstr "Alignement du Gravatar :"
+
+#: core/functions.widget.php:126 core/functions.widget.php:155
+msgid "None"
+msgstr "Aucun"
+
+#: core/functions.widget.php:127
+msgid "Left"
+msgstr "Gauche"
+
+#: core/functions.widget.php:128
+msgid "Center"
+msgstr "Centre"
+
+#: core/functions.widget.php:129
+msgid "Right"
+msgstr "Droite"
+
+#: core/functions.widget.php:132
+msgid "Gravatar Shape:"
+msgstr "Forme Gravatar:"
+
+#: core/functions.widget.php:134
+msgid "Default"
+msgstr "Défaut"
+
+#: core/functions.widget.php:135
+msgid "Rounded"
+msgstr "Arrondie"
+
+#: core/functions.widget.php:136
+msgid "Square"
+msgstr "Carré "
+
+#: core/functions.widget.php:143
+msgid "Choose which text you would like to use as the author description:"
+msgstr ""
+"Sélectionnez le texte que vous souhaitez utiliser comme description de "
+"l’auteur "
+
+#: core/functions.widget.php:144
+msgid "Author Bio"
+msgstr "Biographie de l’auteur"
+
+#: core/functions.widget.php:145
+msgid "Custom Description(below)"
+msgstr "Description personnalisée"
+
+#: core/functions.widget.php:148
+msgid ""
+"Choose your extended \"About Me\" page. This will be the page linked to at "
+"the end of your author description."
+msgstr ""
+"Choisissez votre page « À propos » . Elle s’ouvrira avec le lien à la fin "
+"de la description courte."
+
+#: core/functions.widget.php:160
+msgid "Extended page link text:"
+msgstr "Lien de la page:"
+
+#: core/functions.widget.php:161
+msgid "Read More…"
+msgstr "En savoir plus …"
+
+#. Plugin Name of the plugin/theme
+msgid "Easy Profile Widget"
+msgstr "Widget Easy Profil"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/easy-profile-widget"
+msgstr "https://wordpress.org/plugins/easy-profile-widget"
+
+#. Author of the plugin/theme
+msgid "phpbits"
+msgstr "phpbits"
+
+#. Author URI of the plugin/theme
+msgid "http://codecanyon.net/user/phpbits/portfolio?ref=phpbits"
+msgstr "http://codecanyon.net/user/phpbits/portfolio?ref=phpbits"
