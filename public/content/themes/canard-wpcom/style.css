@@ -286,7 +286,7 @@ input,
 select,
 textarea {
 	color: #222;
-	font-family: "PT Serif", serif;
+	font-family: 'Manuale', serif;
 	font-size: 16px;
 }
 body {
@@ -305,7 +305,7 @@ h4,
 h5,
 h6 {
 	clear: both;
-	font-family: "Playfair Display", serif;
+	font-family: 'Manuale', serif;
 	font-weight: bold;
 	margin-top: 0;
 }
@@ -1189,7 +1189,7 @@ a:visited {
 	text-transform: uppercase;
 }
 .post-navigation .post-title {
-	font-family: "Playfair Display", serif;
+	font-family: 'Manuale', serif;
 	font-size: 25px;
 	font-weight: bold;
 	line-height: 1.2;
@@ -2385,7 +2385,7 @@ body:not(.single) .content-area .format-image .post-thumbnail:before {
 	margin-bottom: 30px;
 }
 .no-comments {
-	font-family: "Playfair Display", serif;
+	font-family: 'Manuale', serif;
 	font-weight: bold;
 	margin-bottom: 30px;
 }
@@ -2434,7 +2434,7 @@ body:not(.single) .content-area .format-image .post-thumbnail:before {
 	padding-bottom: 30px;
 }
 .comment-author {
-	font-family: "Playfair Display", serif;
+	font-family: 'Manuale', serif;
 	font-size: 16px;
 	font-weight: bold;
 	line-height: 1.875;
@@ -2867,7 +2867,7 @@ div#jp-relatedposts a:focus {
 	outline: 2px solid #ddd;
 }
 .hentry div#jp-relatedposts h3.jp-relatedposts-headline {
-	font-family: "Playfair Display", serif;
+	font-family: 'Manuale', serif;
 	font-size: 25px;
 	font-weight: bold;
 	line-height: 1.2;
@@ -2928,7 +2928,7 @@ div#jp-relatedposts a:focus {
 	text-transform: uppercase;
 }
 .hentry div#jp-relatedposts div.jp-relatedposts-items .jp-relatedposts-post-title {
-	font-family: "PT Serif", serif;
+	font-family: 'Manuale', serif;
 	font-size: 16px;
 	font-weight: bold;
 	letter-spacing: 0;
